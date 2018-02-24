@@ -1,0 +1,2875 @@
+
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-8, P2-12
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-10, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-9, P2-11
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-10, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-9, P2-11
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-10, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-1, P1-8, P2-11
+
+Current Player: P2
+Next Player: P1
+Mice: B-2, P1-9, P2-9
+
+Current Player: P1
+Next Player: P2
+Mice: B-2, P1-7, P2-11
+
+Current Player: P2
+Next Player: P1
+Mice: B-2, P1-9, P2-9
+
+Current Player: P1
+Next Player: P2
+Mice: B-2, P1-8, P2-10
+
+Current Player: P2
+Next Player: P1
+Mice: B-2, P1-9, P2-9
+
+Current Player: P1
+Next Player: P2
+Mice: B-2, P1-8, P2-10
+
+Current Player: P2
+Next Player: P1
+Mice: B-3, P1-8, P2-9
+
+Current Player: P1
+Next Player: P2
+Mice: B-3, P1-8, P2-9
+
+Current Player: P2
+Next Player: P1
+Mice: B-3, P1-9, P2-8
+
+Current Player: P1
+Next Player: P2
+Mice: B-3, P1-9, P2-8
+
+Current Player: P2
+Next Player: P1
+Mice: B-3, P1-10, P2-7
+
+Current Player: P1
+Next Player: P2
+Mice: B-3, P1-9, P2-8
+
+Current Player: P2
+Next Player: P1
+Mice: B-3, P1-10, P2-7
+
+Current Player: P1
+Next Player: P2
+Mice: B-4, P1-9, P2-7
+
+Current Player: P2
+Next Player: P1
+Mice: B-4, P1-10, P2-6
+
+Current Player: P1
+Next Player: P2
+Mice: B-4, P1-9, P2-7
+
+Current Player: P2
+Next Player: P1
+Mice: B-5, P1-9, P2-6
+
+Current Player: P1
+Next Player: P2
+Mice: B-6, P1-8, P2-6
+
+Current Player: P2
+Next Player: P1
+Mice: B-7, P1-8, P2-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-7, P1-7, P2-6
+
+Current Player: P2
+Next Player: P1
+Mice: B-7, P1-8, P2-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-8, P1-7, P2-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-8, P1-8, P2-4
+
+	***************
+
+	Winner(s): P1	
+
+
+Current Player: P3
+Next Player: P2
+Mice: B-1, P1-4, P2-4, P3-3, P4-4, P5-4
+
+Current Player: P2
+Next Player: P1
+Mice: B-1, P1-4, P2-4, P3-3, P4-4, P5-4
+
+Current Player: P1
+Next Player: P5
+Mice: B-2, P1-3, P2-4, P3-3, P4-4, P5-4
+
+Current Player: P5
+Next Player: P1
+Mice: B-2, P1-3, P2-4, P3-3, P4-5, P5-3
+
+Current Player: P1
+Next Player: P5
+Mice: B-2, P1-2, P2-5, P3-3, P4-5, P5-3
+
+Current Player: P5
+Next Player: P1
+Mice: B-3, P1-2, P2-5, P3-3, P4-5, P5-2
+
+Current Player: P1
+Next Player: P2
+Mice: B-3, P1-2, P2-5, P3-3, P4-5, P5-2
+
+Current Player: P2
+Next Player: P3
+Mice: B-3, P1-3, P2-4, P3-3, P4-5, P5-2
+
+Current Player: P3
+Next Player: P4
+Mice: B-3, P1-3, P2-4, P3-3, P4-5, P5-2
+
+Current Player: P4
+Next Player: P5
+Mice: B-3, P1-3, P2-4, P3-3, P4-5, P5-2
+
+Current Player: P5
+Next Player: P4
+Mice: B-3, P1-3, P2-4, P3-3, P4-5, P5-2
+
+Current Player: P4
+Next Player: P5
+Mice: B-4, P1-3, P2-4, P3-3, P4-4, P5-2
+
+Current Player: P5
+Next Player: P1
+Mice: B-5, P1-4, P2-4, P3-3, P4-4, P5-0
+
+Current Player: P1
+Next Player: P2
+Mice: B-6, P1-2, P2-5, P3-3, P4-4, P5-0
+
+Current Player: P2
+Next Player: P3
+Mice: B-6, P1-2, P2-5, P3-3, P4-4, P5-0
+
+Current Player: P3
+Next Player: P4
+Mice: B-6, P1-2, P2-6, P3-2, P4-4, P5-0
+
+Current Player: P4
+Next Player: P5
+Mice: B-6, P1-2, P2-6, P3-2, P4-3, P5-1
+
+Current Player: P5
+Next Player: P4
+Mice: B-7, P1-2, P2-6, P3-2, P4-3, P5-0
+
+Current Player: P4
+Next Player: P5
+Mice: B-7, P1-2, P2-6, P3-3, P4-2, P5-0
+
+Current Player: P5
+Next Player: P1
+Mice: B-7, P1-2, P2-6, P3-3, P4-2, P5-0
+
+Current Player: P1
+Next Player: P2
+Mice: B-7, P1-2, P2-6, P3-3, P4-2, P5-0
+
+Current Player: P2
+Next Player: P3
+Mice: B-8, P1-2, P2-5, P3-3, P4-2, P5-0
+
+Current Player: P3
+Next Player: P4
+Mice: B-8, P1-2, P2-5, P3-2, P4-3, P5-0
+
+Current Player: P4
+Next Player: P5
+Mice: B-9, P1-2, P2-5, P3-2, P4-2, P5-0
+
+Current Player: P5
+Next Player: P1
+Mice: B-9, P1-2, P2-5, P3-2, P4-2, P5-0
+
+Current Player: P1
+Next Player: P5
+Mice: B-10, P1-1, P2-5, P3-2, P4-2, P5-0
+
+Current Player: P5
+Next Player: P4
+Mice: B-10, P1-1, P2-5, P3-2, P4-2, P5-0
+
+Current Player: P4
+Next Player: P3
+Mice: B-10, P1-1, P2-5, P3-3, P4-1, P5-0
+
+Current Player: P3
+Next Player: P2
+Mice: B-11, P1-1, P2-5, P3-2, P4-1, P5-0
+
+Current Player: P2
+Next Player: P1
+Mice: B-11, P1-1, P2-5, P3-2, P4-1, P5-0
+
+	***************
+
+	Winner(s): P2	
+
+
+Current Player: P2
+Next Player: P1
+Mice: B-1, P1-4, P2-2, P3-5, P4-4, P5-4
+
+Current Player: P1
+Next Player: P2
+Mice: B-2, P1-2, P2-2, P3-5, P4-4, P5-5
+
+Current Player: P2
+Next Player: P3
+Mice: B-2, P1-2, P2-1, P3-6, P4-4, P5-5
+
+Current Player: P3
+Next Player: P2
+Mice: B-3, P1-2, P2-1, P3-4, P4-5, P5-5
+
+Current Player: P2
+Next Player: P3
+Mice: B-2, P1-2, P2-2, P3-4, P4-5, P5-5
+
+Current Player: P3
+Next Player: P2
+Mice: B-3, P1-2, P2-2, P3-3, P4-5, P5-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-3, P1-3, P2-1, P3-3, P4-5, P5-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-2, P1-3, P2-1, P3-3, P4-5, P5-6
+
+Current Player: P2
+Next Player: P3
+Mice: B-2, P1-3, P2-0, P3-4, P4-5, P5-6
+
+Current Player: P3
+Next Player: P2
+Mice: B-0, P1-3, P2-0, P3-6, P4-5, P5-6
+
+Current Player: P2
+Next Player: P3
+Mice: B-0, P1-3, P2-0, P3-6, P4-5, P5-6
+
+Current Player: P3
+Next Player: P4
+Mice: B-0, P1-3, P2-0, P3-5, P4-6, P5-6
+
+Current Player: P4
+Next Player: P3
+Mice: B-0, P1-3, P2-0, P3-5, P4-6, P5-6
+
+Current Player: P3
+Next Player: P2
+Mice: B-0, P1-3, P2-1, P3-4, P4-6, P5-6
+
+Current Player: P2
+Next Player: P3
+Mice: B-0, P1-3, P2-1, P3-4, P4-6, P5-6
+
+Current Player: P3
+Next Player: P2
+Mice: B-1, P1-3, P2-1, P3-2, P4-7, P5-6
+
+Current Player: P2
+Next Player: P1
+Mice: B-1, P1-3, P2-1, P3-2, P4-7, P5-6
+
+Current Player: P1
+Next Player: P5
+Mice: B-1, P1-2, P2-1, P3-2, P4-7, P5-7
+
+Current Player: P5
+Next Player: P1
+Mice: B-0, P1-2, P2-1, P3-2, P4-7, P5-8
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-0, P2-3, P3-2, P4-7, P5-8
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-0, P2-3, P3-2, P4-7, P5-8
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-0, P2-3, P3-2, P4-7, P5-8
+
+Current Player: P2
+Next Player: P1
+Mice: B-1, P1-0, P2-1, P3-3, P4-7, P5-8
+
+Current Player: P1
+Next Player: P2
+Mice: B-1, P1-0, P2-1, P3-3, P4-7, P5-8
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-0, P2-1, P3-4, P4-7, P5-8
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-0, P2-1, P3-4, P4-7, P5-8
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-0, P2-1, P3-4, P4-7, P5-8
+
+Current Player: P1
+Next Player: P5
+Mice: B-0, P1-0, P2-1, P3-4, P4-7, P5-8
+
+Current Player: P5
+Next Player: P1
+Mice: B-1, P1-0, P2-1, P3-4, P4-7, P5-7
+
+Current Player: P1
+Next Player: P5
+Mice: B-0, P1-0, P2-2, P3-4, P4-7, P5-7
+
+	***************
+
+	Winner(s): P4	P5	
+
+
+Current Player: P4
+Next Player: P1
+Mice: B-0, P1-5, P2-5, P3-6, P4-4
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-4, P2-6, P3-6, P4-4
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-4, P2-5, P3-7, P4-4
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-3, P2-5, P3-7, P4-5
+
+Current Player: P2
+Next Player: P3
+Mice: B-0, P1-3, P2-4, P3-8, P4-5
+
+Current Player: P3
+Next Player: P4
+Mice: B-0, P1-3, P2-4, P3-7, P4-6
+
+Current Player: P4
+Next Player: P3
+Mice: B-0, P1-4, P2-4, P3-7, P4-5
+
+Current Player: P3
+Next Player: P4
+Mice: B-0, P1-4, P2-5, P3-6, P4-5
+
+Current Player: P4
+Next Player: P1
+Mice: B-0, P1-5, P2-5, P3-6, P4-4
+
+Current Player: P1
+Next Player: P4
+Mice: B-0, P1-4, P2-6, P3-6, P4-4
+
+Current Player: P4
+Next Player: P1
+Mice: B-0, P1-4, P2-6, P3-7, P4-3
+
+Current Player: P1
+Next Player: P4
+Mice: B-0, P1-3, P2-7, P3-7, P4-3
+
+Current Player: P4
+Next Player: P1
+Mice: B-0, P1-3, P2-7, P3-8, P4-2
+
+Current Player: P1
+Next Player: P4
+Mice: B-0, P1-2, P2-8, P3-8, P4-2
+
+Current Player: P4
+Next Player: P1
+Mice: B-0, P1-2, P2-8, P3-9, P4-1
+
+Current Player: P1
+Next Player: P4
+Mice: B-0, P1-1, P2-9, P3-9, P4-1
+
+Current Player: P4
+Next Player: P1
+Mice: B-0, P1-1, P2-9, P3-10, P4-0
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-0, P2-10, P3-10, P4-0
+
+Current Player: P2
+Next Player: P3
+Mice: B-0, P1-0, P2-9, P3-11, P4-0
+
+Current Player: P3
+Next Player: P4
+Mice: B-0, P1-0, P2-9, P3-10, P4-1
+
+Current Player: P4
+Next Player: P3
+Mice: B-0, P1-1, P2-9, P3-10, P4-0
+
+Current Player: P3
+Next Player: P4
+Mice: B-0, P1-1, P2-10, P3-9, P4-0
+
+Current Player: P4
+Next Player: P3
+Mice: B-0, P1-1, P2-10, P3-9, P4-0
+
+Current Player: P3
+Next Player: P4
+Mice: B-0, P1-1, P2-11, P3-8, P4-0
+
+Current Player: P4
+Next Player: P1
+Mice: B-0, P1-1, P2-11, P3-8, P4-0
+
+Current Player: P1
+Next Player: P4
+Mice: B-0, P1-0, P2-12, P3-8, P4-0
+
+Current Player: P4
+Next Player: P3
+Mice: B-0, P1-0, P2-12, P3-8, P4-0
+
+Current Player: P3
+Next Player: P4
+Mice: B-0, P1-0, P2-13, P3-7, P4-0
+
+Current Player: P4
+Next Player: P3
+Mice: B-0, P1-0, P2-13, P3-7, P4-0
+
+Current Player: P3
+Next Player: P4
+Mice: B-0, P1-0, P2-14, P3-6, P4-0
+
+	***************
+
+	Winner(s): P2	
+
+
+Current Player: P2
+Next Player: P3
+Mice: B-2, P1-3, P2-3, P3-3, P4-3, P5-3, P6-3
+
+Current Player: P3
+Next Player: P2
+Mice: B-2, P1-3, P2-3, P3-2, P4-4, P5-3, P6-3
+
+Current Player: P2
+Next Player: P3
+Mice: B-3, P1-3, P2-2, P3-2, P4-4, P5-3, P6-3
+
+Current Player: P3
+Next Player: P4
+Mice: B-3, P1-3, P2-2, P3-2, P4-4, P5-3, P6-3
+
+Current Player: P4
+Next Player: P5
+Mice: B-3, P1-3, P2-2, P3-2, P4-4, P5-3, P6-3
+
+Current Player: P5
+Next Player: P6
+Mice: B-3, P1-3, P2-2, P3-2, P4-4, P5-3, P6-3
+
+Current Player: P6
+Next Player: P1
+Mice: B-4, P1-3, P2-2, P3-2, P4-4, P5-3, P6-2
+
+Current Player: P1
+Next Player: P6
+Mice: B-4, P1-2, P2-3, P3-2, P4-4, P5-3, P6-2
+
+Current Player: P6
+Next Player: P1
+Mice: B-4, P1-2, P2-3, P3-2, P4-4, P5-4, P6-1
+
+Current Player: P1
+Next Player: P2
+Mice: B-4, P1-2, P2-3, P3-2, P4-4, P5-4, P6-1
+
+Current Player: P2
+Next Player: P3
+Mice: B-4, P1-2, P2-3, P3-2, P4-4, P5-4, P6-1
+
+Current Player: P3
+Next Player: P2
+Mice: B-4, P1-2, P2-3, P3-2, P4-4, P5-4, P6-1
+
+Current Player: P2
+Next Player: P3
+Mice: B-5, P1-2, P2-2, P3-2, P4-4, P5-4, P6-1
+
+Current Player: P3
+Next Player: P2
+Mice: B-5, P1-2, P2-2, P3-1, P4-5, P5-4, P6-1
+
+Current Player: P2
+Next Player: P3
+Mice: B-5, P1-2, P2-2, P3-1, P4-5, P5-4, P6-1
+
+Current Player: P3
+Next Player: P2
+Mice: B-5, P1-2, P2-2, P3-0, P4-6, P5-4, P6-1
+
+Current Player: P2
+Next Player: P3
+Mice: B-5, P1-2, P2-2, P3-0, P4-6, P5-4, P6-1
+
+Current Player: P3
+Next Player: P2
+Mice: B-5, P1-2, P2-2, P3-0, P4-6, P5-4, P6-1
+
+Current Player: P2
+Next Player: P3
+Mice: B-5, P1-3, P2-1, P3-0, P4-6, P5-4, P6-1
+
+Current Player: P3
+Next Player: P4
+Mice: B-5, P1-3, P2-1, P3-0, P4-6, P5-4, P6-1
+
+Current Player: P4
+Next Player: P3
+Mice: B-5, P1-3, P2-1, P3-0, P4-5, P5-5, P6-1
+
+Current Player: P3
+Next Player: P2
+Mice: B-5, P1-3, P2-1, P3-0, P4-5, P5-5, P6-1
+
+Current Player: P2
+Next Player: P3
+Mice: B-5, P1-3, P2-1, P3-0, P4-5, P5-5, P6-1
+
+Current Player: P3
+Next Player: P2
+Mice: B-5, P1-3, P2-1, P3-0, P4-5, P5-5, P6-1
+
+Current Player: P2
+Next Player: P1
+Mice: B-5, P1-3, P2-1, P3-0, P4-5, P5-5, P6-1
+
+Current Player: P1
+Next Player: P2
+Mice: B-5, P1-3, P2-1, P3-0, P4-5, P5-5, P6-1
+
+Current Player: P2
+Next Player: P3
+Mice: B-5, P1-3, P2-1, P3-0, P4-5, P5-5, P6-1
+
+Current Player: P3
+Next Player: P2
+Mice: B-5, P1-3, P2-1, P3-0, P4-5, P5-5, P6-1
+
+Current Player: P2
+Next Player: P3
+Mice: B-5, P1-3, P2-1, P3-0, P4-5, P5-5, P6-1
+
+Current Player: P3
+Next Player: P4
+Mice: B-5, P1-3, P2-1, P3-0, P4-5, P5-5, P6-1
+
+	***************
+
+	Winner(s): P4	P5	
+
+
+Current Player: P3
+Next Player: P2
+Mice: B-1, P1-5, P2-6, P3-3, P4-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-2, P1-5, P2-5, P3-3, P4-5
+
+Current Player: P1
+Next Player: P4
+Mice: B-3, P1-4, P2-5, P3-3, P4-5
+
+Current Player: P4
+Next Player: P3
+Mice: B-3, P1-4, P2-5, P3-3, P4-5
+
+Current Player: P3
+Next Player: P4
+Mice: B-2, P1-4, P2-5, P3-4, P4-5
+
+Current Player: P4
+Next Player: P1
+Mice: B-2, P1-4, P2-5, P3-4, P4-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-2, P1-4, P2-5, P3-4, P4-5
+
+Current Player: P2
+Next Player: P3
+Mice: B-2, P1-4, P2-5, P3-4, P4-5
+
+Current Player: P3
+Next Player: P2
+Mice: B-3, P1-4, P2-5, P3-3, P4-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-4, P1-4, P2-4, P3-3, P4-5
+
+Current Player: P1
+Next Player: P4
+Mice: B-5, P1-3, P2-4, P3-3, P4-5
+
+Current Player: P4
+Next Player: P3
+Mice: B-6, P1-3, P2-4, P3-3, P4-4
+
+Current Player: P3
+Next Player: P2
+Mice: B-7, P1-3, P2-4, P3-2, P4-4
+
+Current Player: P2
+Next Player: P1
+Mice: B-8, P1-3, P2-3, P3-2, P4-4
+
+Current Player: P1
+Next Player: P4
+Mice: B-9, P1-2, P2-3, P3-2, P4-4
+
+Current Player: P4
+Next Player: P3
+Mice: B-10, P1-2, P2-3, P3-2, P4-3
+
+Current Player: P3
+Next Player: P2
+Mice: B-11, P1-2, P2-3, P3-1, P4-3
+
+Current Player: P2
+Next Player: P1
+Mice: B-12, P1-2, P2-2, P3-1, P4-3
+
+Current Player: P1
+Next Player: P4
+Mice: B-13, P1-1, P2-2, P3-1, P4-3
+
+Current Player: P4
+Next Player: P3
+Mice: B-14, P1-1, P2-2, P3-1, P4-2
+
+Current Player: P3
+Next Player: P2
+Mice: B-15, P1-1, P2-2, P3-0, P4-2
+
+Current Player: P2
+Next Player: P1
+Mice: B-16, P1-1, P2-1, P3-0, P4-2
+
+Current Player: P1
+Next Player: P4
+Mice: B-17, P1-0, P2-1, P3-0, P4-2
+
+Current Player: P4
+Next Player: P3
+Mice: B-18, P1-0, P2-1, P3-0, P4-1
+
+Current Player: P3
+Next Player: P2
+Mice: B-18, P1-0, P2-1, P3-0, P4-1
+
+Current Player: P2
+Next Player: P1
+Mice: B-19, P1-0, P2-0, P3-0, P4-1
+
+Current Player: P1
+Next Player: P4
+Mice: B-19, P1-0, P2-0, P3-0, P4-1
+
+Current Player: P4
+Next Player: P3
+Mice: B-20, P1-0, P2-0, P3-0, P4-0
+
+Current Player: P3
+Next Player: P2
+Mice: B-20, P1-0, P2-0, P3-0, P4-0
+
+Current Player: P2
+Next Player: P1
+Mice: B-20, P1-0, P2-0, P3-0, P4-0
+
+	***************
+
+	Winner(s): P1	P2	P3	P4	
+
+
+Current Player: P3
+Next Player: P2
+Mice: B-3, P1-6, P2-6, P3-5
+
+Current Player: P2
+Next Player: P3
+Mice: B-3, P1-8, P2-4, P3-5
+
+Current Player: P3
+Next Player: P1
+Mice: B-3, P1-9, P2-4, P3-4
+
+Current Player: P1
+Next Player: P3
+Mice: B-3, P1-7, P2-6, P3-4
+
+Current Player: P3
+Next Player: P2
+Mice: B-3, P1-7, P2-7, P3-3
+
+Current Player: P2
+Next Player: P3
+Mice: B-3, P1-8, P2-6, P3-3
+
+Current Player: P3
+Next Player: P2
+Mice: B-4, P1-8, P2-6, P3-2
+
+Current Player: P2
+Next Player: P1
+Mice: B-4, P1-8, P2-6, P3-2
+
+Current Player: P1
+Next Player: P2
+Mice: B-5, P1-7, P2-6, P3-2
+
+Current Player: P2
+Next Player: P1
+Mice: B-6, P1-7, P2-4, P3-3
+
+Current Player: P1
+Next Player: P2
+Mice: B-7, P1-5, P2-4, P3-4
+
+Current Player: P2
+Next Player: P3
+Mice: B-8, P1-5, P2-2, P3-5
+
+Current Player: P3
+Next Player: P2
+Mice: B-8, P1-6, P2-2, P3-4
+
+Current Player: P2
+Next Player: P1
+Mice: B-8, P1-7, P2-1, P3-4
+
+Current Player: P1
+Next Player: P2
+Mice: B-8, P1-6, P2-1, P3-5
+
+Current Player: P2
+Next Player: P3
+Mice: B-8, P1-6, P2-0, P3-6
+
+Current Player: P3
+Next Player: P2
+Mice: B-8, P1-7, P2-0, P3-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-8, P1-7, P2-0, P3-5
+
+Current Player: P1
+Next Player: P3
+Mice: B-8, P1-5, P2-0, P3-7
+
+Current Player: P3
+Next Player: P2
+Mice: B-9, P1-5, P2-1, P3-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-10, P1-5, P2-0, P3-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-10, P1-4, P2-0, P3-6
+
+Current Player: P2
+Next Player: P3
+Mice: B-10, P1-4, P2-0, P3-6
+
+Current Player: P3
+Next Player: P2
+Mice: B-10, P1-6, P2-0, P3-4
+
+Current Player: P2
+Next Player: P3
+Mice: B-10, P1-6, P2-0, P3-4
+
+Current Player: P3
+Next Player: P2
+Mice: B-11, P1-6, P2-0, P3-3
+
+Current Player: P2
+Next Player: P3
+Mice: B-11, P1-6, P2-0, P3-3
+
+Current Player: P3
+Next Player: P2
+Mice: B-12, P1-7, P2-0, P3-1
+
+Current Player: P2
+Next Player: P1
+Mice: B-12, P1-7, P2-0, P3-1
+
+Current Player: P1
+Next Player: P3
+Mice: B-12, P1-7, P2-0, P3-1
+
+	***************
+
+	Winner(s): P1	
+
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-8, P2-12
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-10, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-8, P2-12
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-10, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-8, P2-12
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-10, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-8, P2-12
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-10, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-8, P2-12
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-10, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-8, P2-12
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-10, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-8, P2-12
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-10, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-8, P2-12
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-10, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-8, P2-12
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-10, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-8, P2-12
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-10, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-8, P2-12
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-10, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-8, P2-12
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-10, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-8, P2-12
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-10, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-8, P2-12
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-10, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-8, P2-12
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-10, P2-10
+
+	***************
+
+	Winner(s): P1	P2	
+
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-9, P2-11
+
+Current Player: P2
+Next Player: P1
+Mice: B-1, P1-10, P2-9
+
+Current Player: P1
+Next Player: P2
+Mice: B-2, P1-9, P2-9
+
+Current Player: P2
+Next Player: P1
+Mice: B-2, P1-9, P2-9
+
+Current Player: P1
+Next Player: P2
+Mice: B-4, P1-7, P2-9
+
+Current Player: P2
+Next Player: P1
+Mice: B-5, P1-8, P2-7
+
+Current Player: P1
+Next Player: P2
+Mice: B-5, P1-8, P2-7
+
+Current Player: P2
+Next Player: P1
+Mice: B-5, P1-8, P2-7
+
+Current Player: P1
+Next Player: P2
+Mice: B-5, P1-7, P2-8
+
+Current Player: P2
+Next Player: P1
+Mice: B-6, P1-8, P2-6
+
+Current Player: P1
+Next Player: P2
+Mice: B-8, P1-6, P2-6
+
+Current Player: P2
+Next Player: P1
+Mice: B-7, P1-7, P2-6
+
+Current Player: P1
+Next Player: P2
+Mice: B-8, P1-5, P2-7
+
+Current Player: P2
+Next Player: P1
+Mice: B-7, P1-5, P2-8
+
+Current Player: P1
+Next Player: P2
+Mice: B-7, P1-4, P2-9
+
+Current Player: P2
+Next Player: P1
+Mice: B-6, P1-4, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-7, P1-2, P2-11
+
+Current Player: P2
+Next Player: P1
+Mice: B-8, P1-2, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-7, P1-3, P2-10
+
+Current Player: P2
+Next Player: P1
+Mice: B-6, P1-3, P2-11
+
+Current Player: P1
+Next Player: P2
+Mice: B-7, P1-2, P2-11
+
+Current Player: P2
+Next Player: P1
+Mice: B-7, P1-3, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-7, P1-3, P2-10
+
+Current Player: P2
+Next Player: P1
+Mice: B-8, P1-4, P2-8
+
+Current Player: P1
+Next Player: P2
+Mice: B-8, P1-3, P2-9
+
+Current Player: P2
+Next Player: P1
+Mice: B-8, P1-4, P2-8
+
+Current Player: P1
+Next Player: P2
+Mice: B-8, P1-3, P2-9
+
+Current Player: P2
+Next Player: P1
+Mice: B-8, P1-4, P2-8
+
+Current Player: P1
+Next Player: P2
+Mice: B-8, P1-3, P2-9
+
+Current Player: P2
+Next Player: P1
+Mice: B-8, P1-4, P2-8
+
+	***************
+
+	Winner(s): P2	
+
+
+Current Player: P1
+Next Player: P2
+Mice: B-1, P1-8, P2-11
+
+Current Player: P2
+Next Player: P1
+Mice: B-2, P1-9, P2-9
+
+Current Player: P1
+Next Player: P2
+Mice: B-3, P1-7, P2-10
+
+Current Player: P2
+Next Player: P1
+Mice: B-4, P1-8, P2-8
+
+Current Player: P1
+Next Player: P2
+Mice: B-5, P1-6, P2-9
+
+Current Player: P2
+Next Player: P1
+Mice: B-6, P1-7, P2-7
+
+Current Player: P1
+Next Player: P2
+Mice: B-7, P1-5, P2-8
+
+Current Player: P2
+Next Player: P1
+Mice: B-7, P1-7, P2-6
+
+Current Player: P1
+Next Player: P2
+Mice: B-8, P1-5, P2-7
+
+Current Player: P2
+Next Player: P1
+Mice: B-9, P1-6, P2-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-10, P1-5, P2-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-10, P1-7, P2-3
+
+Current Player: P1
+Next Player: P2
+Mice: B-10, P1-5, P2-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-11, P1-6, P2-3
+
+Current Player: P1
+Next Player: P2
+Mice: B-12, P1-4, P2-4
+
+Current Player: P2
+Next Player: P1
+Mice: B-13, P1-5, P2-2
+
+Current Player: P1
+Next Player: P2
+Mice: B-14, P1-4, P2-2
+
+Current Player: P2
+Next Player: P1
+Mice: B-14, P1-6, P2-0
+
+Current Player: P1
+Next Player: P2
+Mice: B-14, P1-5, P2-1
+
+Current Player: P2
+Next Player: P1
+Mice: B-14, P1-5, P2-1
+
+Current Player: P1
+Next Player: P2
+Mice: B-15, P1-3, P2-2
+
+Current Player: P2
+Next Player: P1
+Mice: B-16, P1-3, P2-1
+
+Current Player: P1
+Next Player: P2
+Mice: B-17, P1-1, P2-2
+
+Current Player: P2
+Next Player: P1
+Mice: B-18, P1-2, P2-0
+
+Current Player: P1
+Next Player: P2
+Mice: B-19, P1-1, P2-0
+
+Current Player: P2
+Next Player: P1
+Mice: B-19, P1-1, P2-0
+
+Current Player: P1
+Next Player: P2
+Mice: B-20, P1-0, P2-0
+
+Current Player: P2
+Next Player: P1
+Mice: B-20, P1-0, P2-0
+
+Current Player: P1
+Next Player: P2
+Mice: B-20, P1-0, P2-0
+
+Current Player: P2
+Next Player: P1
+Mice: B-20, P1-0, P2-0
+
+	***************
+
+	Winner(s): P1	P2	
+
+
+Current Player: P1
+Next Player: P2
+Mice: B-2, P1-8, P2-10
+
+Current Player: P2
+Next Player: P1
+Mice: B-2, P1-8, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-3, P1-6, P2-11
+
+Current Player: P2
+Next Player: P1
+Mice: B-4, P1-6, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-5, P1-5, P2-10
+
+Current Player: P2
+Next Player: P1
+Mice: B-4, P1-5, P2-11
+
+Current Player: P1
+Next Player: P2
+Mice: B-2, P1-7, P2-11
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-7, P2-13
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-6, P2-14
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-6, P2-14
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-6, P2-14
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-7, P2-13
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-7, P2-13
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-7, P2-13
+
+Current Player: P1
+Next Player: P2
+Mice: B-1, P1-6, P2-13
+
+Current Player: P2
+Next Player: P1
+Mice: B-1, P1-6, P2-13
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-6, P2-14
+
+Current Player: P2
+Next Player: P1
+Mice: B-1, P1-6, P2-13
+
+Current Player: P1
+Next Player: P2
+Mice: B-1, P1-6, P2-13
+
+Current Player: P2
+Next Player: P1
+Mice: B-3, P1-6, P2-11
+
+Current Player: P1
+Next Player: P2
+Mice: B-3, P1-5, P2-12
+
+Current Player: P2
+Next Player: P1
+Mice: B-3, P1-5, P2-12
+
+Current Player: P1
+Next Player: P2
+Mice: B-2, P1-6, P2-12
+
+Current Player: P2
+Next Player: P1
+Mice: B-2, P1-7, P2-11
+
+Current Player: P1
+Next Player: P2
+Mice: B-3, P1-6, P2-11
+
+Current Player: P2
+Next Player: P1
+Mice: B-3, P1-7, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-4, P1-6, P2-10
+
+Current Player: P2
+Next Player: P1
+Mice: B-4, P1-6, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-4, P1-6, P2-10
+
+Current Player: P2
+Next Player: P1
+Mice: B-5, P1-7, P2-8
+
+	***************
+
+	Winner(s): P2	
+
+
+Current Player: P2
+Next Player: P3
+Mice: B-3, P1-6, P2-5, P3-6
+
+Current Player: P3
+Next Player: P1
+Mice: B-2, P1-7, P2-5, P3-6
+
+Current Player: P1
+Next Player: P3
+Mice: B-1, P1-8, P2-5, P3-6
+
+Current Player: P3
+Next Player: P1
+Mice: B-1, P1-8, P2-6, P3-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-1, P1-7, P2-7, P3-5
+
+Current Player: P2
+Next Player: P3
+Mice: B-1, P1-7, P2-7, P3-5
+
+Current Player: P3
+Next Player: P1
+Mice: B-2, P1-7, P2-7, P3-4
+
+Current Player: P1
+Next Player: P3
+Mice: B-3, P1-6, P2-7, P3-4
+
+Current Player: P3
+Next Player: P1
+Mice: B-3, P1-6, P2-8, P3-3
+
+Current Player: P1
+Next Player: P2
+Mice: B-4, P1-4, P2-9, P3-3
+
+Current Player: P2
+Next Player: P3
+Mice: B-3, P1-4, P2-9, P3-4
+
+Current Player: P3
+Next Player: P1
+Mice: B-3, P1-4, P2-9, P3-4
+
+Current Player: P1
+Next Player: P3
+Mice: B-3, P1-3, P2-10, P3-4
+
+Current Player: P3
+Next Player: P1
+Mice: B-1, P1-3, P2-10, P3-6
+
+Current Player: P1
+Next Player: P2
+Mice: B-1, P1-1, P2-12, P3-6
+
+Current Player: P2
+Next Player: P1
+Mice: B-2, P1-1, P2-11, P3-6
+
+Current Player: P1
+Next Player: P2
+Mice: B-2, P1-1, P2-11, P3-6
+
+Current Player: P2
+Next Player: P1
+Mice: B-1, P1-1, P2-12, P3-6
+
+Current Player: P1
+Next Player: P3
+Mice: B-0, P1-2, P2-12, P3-6
+
+Current Player: P3
+Next Player: P2
+Mice: B-1, P1-2, P2-13, P3-4
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-2, P2-14, P3-4
+
+Current Player: P1
+Next Player: P3
+Mice: B-0, P1-2, P2-14, P3-4
+
+Current Player: P3
+Next Player: P2
+Mice: B-0, P1-2, P2-14, P3-4
+
+Current Player: P2
+Next Player: P3
+Mice: B-1, P1-2, P2-12, P3-5
+
+Current Player: P3
+Next Player: P1
+Mice: B-0, P1-2, P2-12, P3-6
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-2, P2-12, P3-6
+
+Current Player: P2
+Next Player: P3
+Mice: B-0, P1-2, P2-12, P3-6
+
+Current Player: P3
+Next Player: P1
+Mice: B-0, P1-4, P2-12, P3-4
+
+Current Player: P1
+Next Player: P3
+Mice: B-0, P1-4, P2-12, P3-4
+
+Current Player: P3
+Next Player: P2
+Mice: B-0, P1-4, P2-12, P3-4
+
+	***************
+
+	Winner(s): P2	
+
+
+Current Player: P5
+Next Player: P1
+Mice: B-0, P1-6, P2-4, P3-4, P4-4, P5-2
+
+Current Player: P1
+Next Player: P2
+Mice: B-1, P1-4, P2-5, P3-4, P4-4, P5-2
+
+Current Player: P2
+Next Player: P1
+Mice: B-1, P1-4, P2-4, P3-5, P4-4, P5-2
+
+Current Player: P1
+Next Player: P2
+Mice: B-1, P1-3, P2-4, P3-5, P4-4, P5-3
+
+Current Player: P2
+Next Player: P1
+Mice: B-3, P1-3, P2-2, P3-5, P4-4, P5-3
+
+Current Player: P1
+Next Player: P2
+Mice: B-3, P1-1, P2-2, P3-5, P4-4, P5-5
+
+Current Player: P2
+Next Player: P3
+Mice: B-3, P1-1, P2-0, P3-7, P4-4, P5-5
+
+Current Player: P3
+Next Player: P2
+Mice: B-4, P1-1, P2-0, P3-5, P4-5, P5-5
+
+Current Player: P2
+Next Player: P3
+Mice: B-4, P1-1, P2-0, P3-5, P4-5, P5-5
+
+Current Player: P3
+Next Player: P4
+Mice: B-6, P1-1, P2-0, P3-3, P4-5, P5-5
+
+Current Player: P4
+Next Player: P3
+Mice: B-8, P1-1, P2-0, P3-3, P4-3, P5-5
+
+Current Player: P3
+Next Player: P4
+Mice: B-9, P1-1, P2-0, P3-2, P4-3, P5-5
+
+Current Player: P4
+Next Player: P3
+Mice: B-10, P1-1, P2-0, P3-2, P4-2, P5-5
+
+Current Player: P3
+Next Player: P4
+Mice: B-11, P1-1, P2-0, P3-1, P4-2, P5-5
+
+Current Player: P4
+Next Player: P3
+Mice: B-11, P1-1, P2-0, P3-1, P4-1, P5-6
+
+Current Player: P3
+Next Player: P4
+Mice: B-10, P1-1, P2-0, P3-2, P4-1, P5-6
+
+Current Player: P4
+Next Player: P3
+Mice: B-11, P1-1, P2-0, P3-2, P4-0, P5-6
+
+Current Player: P3
+Next Player: P4
+Mice: B-12, P1-1, P2-0, P3-1, P4-0, P5-6
+
+Current Player: P4
+Next Player: P3
+Mice: B-12, P1-1, P2-0, P3-1, P4-0, P5-6
+
+Current Player: P3
+Next Player: P4
+Mice: B-12, P1-1, P2-0, P3-1, P4-0, P5-6
+
+Current Player: P4
+Next Player: P3
+Mice: B-12, P1-1, P2-0, P3-1, P4-0, P5-6
+
+Current Player: P3
+Next Player: P4
+Mice: B-13, P1-1, P2-0, P3-0, P4-0, P5-6
+
+Current Player: P4
+Next Player: P3
+Mice: B-13, P1-1, P2-0, P3-0, P4-0, P5-6
+
+Current Player: P3
+Next Player: P4
+Mice: B-13, P1-1, P2-0, P3-0, P4-0, P5-6
+
+Current Player: P4
+Next Player: P3
+Mice: B-13, P1-1, P2-0, P3-0, P4-0, P5-6
+
+Current Player: P3
+Next Player: P4
+Mice: B-12, P1-1, P2-0, P3-1, P4-0, P5-6
+
+Current Player: P4
+Next Player: P3
+Mice: B-11, P1-1, P2-0, P3-1, P4-1, P5-6
+
+Current Player: P3
+Next Player: P4
+Mice: B-11, P1-1, P2-0, P3-1, P4-1, P5-6
+
+Current Player: P4
+Next Player: P3
+Mice: B-12, P1-1, P2-0, P3-1, P4-0, P5-6
+
+Current Player: P3
+Next Player: P4
+Mice: B-13, P1-1, P2-0, P3-0, P4-0, P5-6
+
+	***************
+
+	Winner(s): P5	
+
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-5, P2-4, P3-6, P4-5
+
+Current Player: P1
+Next Player: P4
+Mice: B-0, P1-3, P2-4, P3-6, P4-7
+
+Current Player: P4
+Next Player: P3
+Mice: B-0, P1-3, P2-4, P3-7, P4-6
+
+Current Player: P3
+Next Player: P4
+Mice: B-1, P1-3, P2-5, P3-5, P4-6
+
+Current Player: P4
+Next Player: P1
+Mice: B-1, P1-4, P2-5, P3-5, P4-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-1, P1-3, P2-6, P3-5, P4-5
+
+Current Player: P2
+Next Player: P3
+Mice: B-1, P1-3, P2-5, P3-6, P4-5
+
+Current Player: P3
+Next Player: P2
+Mice: B-1, P1-3, P2-5, P3-5, P4-6
+
+Current Player: P2
+Next Player: P1
+Mice: B-1, P1-4, P2-4, P3-5, P4-6
+
+Current Player: P1
+Next Player: P2
+Mice: B-2, P1-2, P2-4, P3-5, P4-7
+
+Current Player: P2
+Next Player: P1
+Mice: B-3, P1-2, P2-2, P3-6, P4-7
+
+Current Player: P1
+Next Player: P4
+Mice: B-3, P1-1, P2-2, P3-6, P4-8
+
+Current Player: P4
+Next Player: P1
+Mice: B-3, P1-1, P2-2, P3-7, P4-7
+
+Current Player: P1
+Next Player: P4
+Mice: B-4, P1-0, P2-2, P3-7, P4-7
+
+Current Player: P4
+Next Player: P3
+Mice: B-4, P1-0, P2-2, P3-9, P4-5
+
+Current Player: P3
+Next Player: P2
+Mice: B-4, P1-0, P2-2, P3-9, P4-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-5, P1-0, P2-0, P3-10, P4-5
+
+Current Player: P1
+Next Player: P4
+Mice: B-5, P1-0, P2-0, P3-10, P4-5
+
+Current Player: P4
+Next Player: P3
+Mice: B-5, P1-0, P2-0, P3-11, P4-4
+
+Current Player: P3
+Next Player: P2
+Mice: B-5, P1-0, P2-1, P3-10, P4-4
+
+Current Player: P2
+Next Player: P1
+Mice: B-5, P1-1, P2-0, P3-10, P4-4
+
+Current Player: P1
+Next Player: P4
+Mice: B-5, P1-0, P2-0, P3-10, P4-5
+
+Current Player: P4
+Next Player: P3
+Mice: B-5, P1-0, P2-0, P3-11, P4-4
+
+Current Player: P3
+Next Player: P2
+Mice: B-5, P1-0, P2-1, P3-10, P4-4
+
+Current Player: P2
+Next Player: P1
+Mice: B-5, P1-1, P2-0, P3-10, P4-4
+
+Current Player: P1
+Next Player: P4
+Mice: B-5, P1-0, P2-0, P3-10, P4-5
+
+Current Player: P4
+Next Player: P3
+Mice: B-5, P1-0, P2-0, P3-11, P4-4
+
+Current Player: P3
+Next Player: P2
+Mice: B-5, P1-0, P2-1, P3-10, P4-4
+
+Current Player: P2
+Next Player: P1
+Mice: B-5, P1-1, P2-0, P3-10, P4-4
+
+	***************
+
+	Winner(s): P3	
+
+
+Current Player: P3
+Next Player: P1
+Mice: B-3, P1-7, P2-6, P3-4
+
+Current Player: P1
+Next Player: P3
+Mice: B-5, P1-5, P2-6, P3-4
+
+Current Player: P3
+Next Player: P1
+Mice: B-5, P1-5, P2-7, P3-3
+
+Current Player: P1
+Next Player: P3
+Mice: B-6, P1-4, P2-7, P3-3
+
+Current Player: P3
+Next Player: P2
+Mice: B-6, P1-4, P2-7, P3-3
+
+Current Player: P2
+Next Player: P3
+Mice: B-6, P1-6, P2-5, P3-3
+
+Current Player: P3
+Next Player: P1
+Mice: B-7, P1-7, P2-5, P3-1
+
+Current Player: P1
+Next Player: P2
+Mice: B-8, P1-5, P2-6, P3-1
+
+Current Player: P2
+Next Player: P1
+Mice: B-9, P1-5, P2-5, P3-1
+
+Current Player: P1
+Next Player: P2
+Mice: B-10, P1-4, P2-5, P3-1
+
+Current Player: P2
+Next Player: P1
+Mice: B-12, P1-4, P2-3, P3-1
+
+Current Player: P1
+Next Player: P2
+Mice: B-12, P1-2, P2-3, P3-3
+
+Current Player: P2
+Next Player: P1
+Mice: B-13, P1-2, P2-2, P3-3
+
+Current Player: P1
+Next Player: P3
+Mice: B-15, P1-0, P2-2, P3-3
+
+Current Player: P3
+Next Player: P2
+Mice: B-15, P1-0, P2-2, P3-3
+
+Current Player: P2
+Next Player: P1
+Mice: B-16, P1-1, P2-0, P3-3
+
+Current Player: P1
+Next Player: P2
+Mice: B-17, P1-0, P2-0, P3-3
+
+Current Player: P2
+Next Player: P1
+Mice: B-17, P1-0, P2-0, P3-3
+
+Current Player: P1
+Next Player: P2
+Mice: B-17, P1-0, P2-0, P3-3
+
+Current Player: P2
+Next Player: P1
+Mice: B-17, P1-0, P2-0, P3-3
+
+Current Player: P1
+Next Player: P2
+Mice: B-17, P1-0, P2-0, P3-3
+
+Current Player: P2
+Next Player: P1
+Mice: B-17, P1-0, P2-0, P3-3
+
+Current Player: P1
+Next Player: P2
+Mice: B-17, P1-0, P2-0, P3-3
+
+Current Player: P2
+Next Player: P1
+Mice: B-17, P1-0, P2-0, P3-3
+
+Current Player: P1
+Next Player: P3
+Mice: B-17, P1-0, P2-0, P3-3
+
+Current Player: P3
+Next Player: P2
+Mice: B-18, P1-0, P2-0, P3-2
+
+Current Player: P2
+Next Player: P3
+Mice: B-18, P1-0, P2-0, P3-2
+
+Current Player: P3
+Next Player: P1
+Mice: B-18, P1-0, P2-0, P3-2
+
+Current Player: P1
+Next Player: P2
+Mice: B-18, P1-0, P2-0, P3-2
+
+Current Player: P2
+Next Player: P1
+Mice: B-18, P1-0, P2-0, P3-2
+
+	***************
+
+	Winner(s): P3	
+
+
+Current Player: P4
+Next Player: P3
+Mice: B-0, P1-4, P2-4, P3-5, P4-3, P5-4
+
+Current Player: P3
+Next Player: P2
+Mice: B-0, P1-4, P2-4, P3-5, P4-3, P5-4
+
+Current Player: P2
+Next Player: P1
+Mice: B-1, P1-5, P2-2, P3-5, P4-3, P5-4
+
+Current Player: P1
+Next Player: P2
+Mice: B-1, P1-3, P2-2, P3-5, P4-3, P5-6
+
+Current Player: P2
+Next Player: P1
+Mice: B-1, P1-3, P2-2, P3-5, P4-3, P5-6
+
+Current Player: P1
+Next Player: P5
+Mice: B-1, P1-2, P2-2, P3-5, P4-3, P5-7
+
+Current Player: P5
+Next Player: P4
+Mice: B-0, P1-2, P2-2, P3-5, P4-4, P5-7
+
+Current Player: P4
+Next Player: P5
+Mice: B-0, P1-2, P2-2, P3-5, P4-4, P5-7
+
+Current Player: P5
+Next Player: P4
+Mice: B-0, P1-2, P2-2, P3-5, P4-4, P5-7
+
+Current Player: P4
+Next Player: P3
+Mice: B-0, P1-2, P2-2, P3-5, P4-4, P5-7
+
+Current Player: P3
+Next Player: P4
+Mice: B-0, P1-2, P2-2, P3-5, P4-4, P5-7
+
+Current Player: P4
+Next Player: P5
+Mice: B-1, P1-2, P2-2, P3-5, P4-2, P5-8
+
+Current Player: P5
+Next Player: P1
+Mice: B-0, P1-3, P2-2, P3-5, P4-2, P5-8
+
+Current Player: P1
+Next Player: P5
+Mice: B-0, P1-1, P2-4, P3-5, P4-2, P5-8
+
+Current Player: P5
+Next Player: P4
+Mice: B-1, P1-1, P2-4, P3-5, P4-3, P5-6
+
+Current Player: P4
+Next Player: P5
+Mice: B-2, P1-1, P2-4, P3-5, P4-2, P5-6
+
+Current Player: P5
+Next Player: P1
+Mice: B-3, P1-2, P2-4, P3-5, P4-2, P5-4
+
+Current Player: P1
+Next Player: P5
+Mice: B-3, P1-2, P2-4, P3-5, P4-2, P5-4
+
+Current Player: P5
+Next Player: P4
+Mice: B-3, P1-2, P2-4, P3-5, P4-3, P5-3
+
+Current Player: P4
+Next Player: P3
+Mice: B-4, P1-2, P2-4, P3-5, P4-2, P5-3
+
+Current Player: P3
+Next Player: P2
+Mice: B-5, P1-2, P2-4, P3-4, P4-2, P5-3
+
+Current Player: P2
+Next Player: P1
+Mice: B-6, P1-3, P2-2, P3-4, P4-2, P5-3
+
+Current Player: P1
+Next Player: P5
+Mice: B-7, P1-1, P2-2, P3-4, P4-2, P5-4
+
+Current Player: P5
+Next Player: P1
+Mice: B-6, P1-1, P2-2, P3-4, P4-2, P5-5
+
+Current Player: P1
+Next Player: P5
+Mice: B-5, P1-2, P2-2, P3-4, P4-2, P5-5
+
+Current Player: P5
+Next Player: P1
+Mice: B-6, P1-2, P2-2, P3-4, P4-2, P5-4
+
+Current Player: P1
+Next Player: P5
+Mice: B-7, P1-1, P2-2, P3-4, P4-2, P5-4
+
+Current Player: P5
+Next Player: P4
+Mice: B-8, P1-1, P2-2, P3-4, P4-2, P5-3
+
+Current Player: P4
+Next Player: P3
+Mice: B-8, P1-1, P2-2, P3-5, P4-1, P5-3
+
+Current Player: P3
+Next Player: P2
+Mice: B-9, P1-1, P2-2, P3-4, P4-1, P5-3
+
+	***************
+
+	Winner(s): P3	
+
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-5, P2-5, P3-5, P4-5
+
+	***************
+
+	Winner(s): P1	P2	P3	P4	
+
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-10, P2-10
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-10, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-10, P2-10
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-12, P2-8
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-12, P2-8
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-12, P2-8
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-11, P2-9
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-11, P2-9
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-10, P2-10
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-11, P2-9
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-10, P2-10
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-11, P2-9
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-10, P2-10
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-11, P2-9
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-10, P2-10
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-11, P2-9
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-11, P2-9
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-12, P2-8
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-11, P2-9
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-11, P2-9
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-10, P2-10
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-11, P2-9
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-11, P2-9
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-11, P2-9
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-10, P2-10
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-10, P2-10
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-10, P2-10
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-11, P2-9
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-11, P2-9
+
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-12, P2-8
+
+	***************
+
+	Winner(s): P1	
+
+
+Current Player: P2
+Next Player: P3
+Mice: B-2, P1-7, P2-5, P3-6
+
+Current Player: P3
+Next Player: P2
+Mice: B-3, P1-7, P2-5, P3-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-2, P1-8, P2-5, P3-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-2, P1-7, P2-5, P3-6
+
+Current Player: P2
+Next Player: P1
+Mice: B-1, P1-7, P2-6, P3-6
+
+Current Player: P1
+Next Player: P3
+Mice: B-1, P1-5, P2-6, P3-8
+
+Current Player: P3
+Next Player: P2
+Mice: B-2, P1-5, P2-7, P3-6
+
+Current Player: P2
+Next Player: P1
+Mice: B-3, P1-6, P2-5, P3-6
+
+Current Player: P1
+Next Player: P3
+Mice: B-4, P1-4, P2-5, P3-7
+
+Current Player: P3
+Next Player: P2
+Mice: B-5, P1-4, P2-6, P3-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-6, P1-5, P2-4, P3-5
+
+Current Player: P1
+Next Player: P3
+Mice: B-7, P1-3, P2-4, P3-6
+
+Current Player: P3
+Next Player: P2
+Mice: B-8, P1-3, P2-5, P3-4
+
+Current Player: P2
+Next Player: P1
+Mice: B-9, P1-4, P2-3, P3-4
+
+Current Player: P1
+Next Player: P3
+Mice: B-10, P1-2, P2-3, P3-5
+
+Current Player: P3
+Next Player: P2
+Mice: B-11, P1-2, P2-4, P3-3
+
+Current Player: P2
+Next Player: P1
+Mice: B-12, P1-3, P2-2, P3-3
+
+Current Player: P1
+Next Player: P3
+Mice: B-13, P1-1, P2-2, P3-4
+
+Current Player: P3
+Next Player: P2
+Mice: B-14, P1-1, P2-3, P3-2
+
+Current Player: P2
+Next Player: P1
+Mice: B-15, P1-2, P2-1, P3-2
+
+Current Player: P1
+Next Player: P3
+Mice: B-16, P1-0, P2-1, P3-3
+
+Current Player: P3
+Next Player: P2
+Mice: B-17, P1-0, P2-2, P3-1
+
+Current Player: P2
+Next Player: P1
+Mice: B-18, P1-1, P2-0, P3-1
+
+Current Player: P1
+Next Player: P3
+Mice: B-19, P1-0, P2-0, P3-1
+
+Current Player: P3
+Next Player: P2
+Mice: B-20, P1-0, P2-0, P3-0
+
+Current Player: P2
+Next Player: P1
+Mice: B-20, P1-0, P2-0, P3-0
+
+Current Player: P1
+Next Player: P3
+Mice: B-20, P1-0, P2-0, P3-0
+
+Current Player: P3
+Next Player: P2
+Mice: B-20, P1-0, P2-0, P3-0
+
+Current Player: P2
+Next Player: P1
+Mice: B-20, P1-0, P2-0, P3-0
+
+Current Player: P1
+Next Player: P3
+Mice: B-20, P1-0, P2-0, P3-0
+
+	***************
+
+	Winner(s): P1	P2	P3	
+
+
+Current Player: P1
+Next Player: P6
+Mice: B-0, P1-5, P2-3, P3-3, P4-3, P5-3, P6-3
+
+Current Player: P6
+Next Player: P5
+Mice: B-0, P1-5, P2-3, P3-3, P4-3, P5-3, P6-3
+
+Current Player: P5
+Next Player: P4
+Mice: B-0, P1-5, P2-3, P3-3, P4-3, P5-3, P6-3
+
+Current Player: P4
+Next Player: P5
+Mice: B-1, P1-5, P2-3, P3-3, P4-2, P5-3, P6-3
+
+Current Player: P5
+Next Player: P6
+Mice: B-1, P1-5, P2-3, P3-3, P4-2, P5-3, P6-3
+
+Current Player: P6
+Next Player: P5
+Mice: B-0, P1-5, P2-3, P3-3, P4-2, P5-3, P6-4
+
+Current Player: P5
+Next Player: P6
+Mice: B-1, P1-5, P2-3, P3-3, P4-3, P5-1, P6-4
+
+Current Player: P6
+Next Player: P1
+Mice: B-0, P1-6, P2-3, P3-3, P4-3, P5-1, P6-4
+
+Current Player: P1
+Next Player: P6
+Mice: B-0, P1-6, P2-3, P3-3, P4-3, P5-1, P6-4
+
+Current Player: P6
+Next Player: P1
+Mice: B-0, P1-6, P2-3, P3-3, P4-3, P5-1, P6-4
+
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-5, P2-4, P3-3, P4-3, P5-1, P6-4
+
+Current Player: P2
+Next Player: P1
+Mice: B-1, P1-5, P2-2, P3-4, P4-3, P5-1, P6-4
+
+Current Player: P1
+Next Player: P6
+Mice: B-0, P1-5, P2-2, P3-4, P4-3, P5-1, P6-5
+
+Current Player: P6
+Next Player: P1
+Mice: B-1, P1-5, P2-2, P3-4, P4-3, P5-1, P6-4
+
+Current Player: P1
+Next Player: P2
+Mice: B-1, P1-5, P2-2, P3-4, P4-3, P5-1, P6-4
+
+Current Player: P2
+Next Player: P1
+Mice: B-2, P1-5, P2-1, P3-4, P4-3, P5-1, P6-4
+
+Current Player: P1
+Next Player: P2
+Mice: B-1, P1-6, P2-1, P3-4, P4-3, P5-1, P6-4
+
+Current Player: P2
+Next Player: P1
+Mice: B-2, P1-6, P2-0, P3-4, P4-3, P5-1, P6-4
+
+Current Player: P1
+Next Player: P2
+Mice: B-3, P1-4, P2-0, P3-4, P4-3, P5-1, P6-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-1, P1-4, P2-2, P3-4, P4-3, P5-1, P6-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-2, P1-2, P2-2, P3-4, P4-3, P5-1, P6-6
+
+Current Player: P2
+Next Player: P1
+Mice: B-3, P1-2, P2-1, P3-4, P4-3, P5-1, P6-6
+
+Current Player: P1
+Next Player: P6
+Mice: B-3, P1-1, P2-1, P3-4, P4-3, P5-1, P6-7
+
+Current Player: P6
+Next Player: P5
+Mice: B-3, P1-1, P2-1, P3-4, P4-3, P5-1, P6-7
+
+Current Player: P5
+Next Player: P4
+Mice: B-3, P1-1, P2-1, P3-4, P4-3, P5-1, P6-7
+
+Current Player: P4
+Next Player: P3
+Mice: B-2, P1-1, P2-1, P3-5, P4-3, P5-1, P6-7
+
+Current Player: P3
+Next Player: P4
+Mice: B-3, P1-1, P2-1, P3-4, P4-3, P5-1, P6-7
+
+Current Player: P4
+Next Player: P5
+Mice: B-3, P1-1, P2-1, P3-4, P4-3, P5-1, P6-7
+
+Current Player: P5
+Next Player: P4
+Mice: B-1, P1-1, P2-1, P3-4, P4-3, P5-3, P6-7
+
+Current Player: P4
+Next Player: P5
+Mice: B-1, P1-1, P2-1, P3-4, P4-3, P5-3, P6-7
+
+	***************
+
+	Winner(s): P6	
+
+
+Current Player: P3
+Next Player: P2
+Mice: B-2, P1-6, P2-6, P3-6
+
+Current Player: P2
+Next Player: P1
+Mice: B-2, P1-6, P2-6, P3-6
+
+Current Player: P1
+Next Player: P2
+Mice: B-2, P1-6, P2-6, P3-6
+
+Current Player: P2
+Next Player: P3
+Mice: B-2, P1-6, P2-6, P3-6
+
+Current Player: P3
+Next Player: P1
+Mice: B-3, P1-6, P2-6, P3-5
+
+Current Player: P1
+Next Player: P2
+Mice: B-3, P1-6, P2-6, P3-5
+
+Current Player: P2
+Next Player: P3
+Mice: B-3, P1-6, P2-6, P3-5
+
+Current Player: P3
+Next Player: P2
+Mice: B-4, P1-6, P2-6, P3-4
+
+Current Player: P2
+Next Player: P1
+Mice: B-5, P1-6, P2-5, P3-4
+
+Current Player: P1
+Next Player: P2
+Mice: B-6, P1-5, P2-5, P3-4
+
+Current Player: P2
+Next Player: P1
+Mice: B-7, P1-5, P2-4, P3-4
+
+Current Player: P1
+Next Player: P3
+Mice: B-7, P1-5, P2-4, P3-4
+
+Current Player: P3
+Next Player: P2
+Mice: B-7, P1-5, P2-4, P3-4
+
+Current Player: P2
+Next Player: P1
+Mice: B-7, P1-5, P2-4, P3-4
+
+Current Player: P1
+Next Player: P3
+Mice: B-7, P1-5, P2-4, P3-4
+
+Current Player: P3
+Next Player: P2
+Mice: B-8, P1-5, P2-4, P3-3
+
+Current Player: P2
+Next Player: P1
+Mice: B-8, P1-5, P2-4, P3-3
+
+Current Player: P1
+Next Player: P3
+Mice: B-9, P1-4, P2-4, P3-3
+
+Current Player: P3
+Next Player: P2
+Mice: B-9, P1-4, P2-4, P3-3
+
+Current Player: P2
+Next Player: P1
+Mice: B-10, P1-4, P2-3, P3-3
+
+Current Player: P1
+Next Player: P2
+Mice: B-11, P1-3, P2-3, P3-3
+
+Current Player: P2
+Next Player: P3
+Mice: B-12, P1-3, P2-2, P3-3
+
+Current Player: P3
+Next Player: P2
+Mice: B-13, P1-3, P2-2, P3-2
+
+Current Player: P2
+Next Player: P3
+Mice: B-14, P1-3, P2-1, P3-2
+
+Current Player: P3
+Next Player: P1
+Mice: B-15, P1-3, P2-1, P3-1
+
+Current Player: P1
+Next Player: P2
+Mice: B-15, P1-3, P2-1, P3-1
+
+Current Player: P2
+Next Player: P1
+Mice: B-16, P1-3, P2-0, P3-1
+
+Current Player: P1
+Next Player: P2
+Mice: B-17, P1-2, P2-0, P3-1
+
+Current Player: P2
+Next Player: P3
+Mice: B-17, P1-2, P2-0, P3-1
+
+Current Player: P3
+Next Player: P2
+Mice: B-17, P1-2, P2-0, P3-1
+
+	***************
+
+	Winner(s): P1	
+
+
+Current Player: P5
+Next Player: P1
+Mice: B-1, P1-5, P2-4, P3-4, P4-4, P5-2
+
+Current Player: P1
+Next Player: P2
+Mice: B-1, P1-5, P2-4, P3-4, P4-4, P5-2
+
+Current Player: P2
+Next Player: P3
+Mice: B-2, P1-6, P2-2, P3-4, P4-4, P5-2
+
+Current Player: P3
+Next Player: P4
+Mice: B-3, P1-6, P2-2, P3-2, P4-5, P5-2
+
+Current Player: P4
+Next Player: P5
+Mice: B-3, P1-6, P2-2, P3-2, P4-5, P5-2
+
+Current Player: P5
+Next Player: P1
+Mice: B-4, P1-6, P2-2, P3-2, P4-6, P5-0
+
+Current Player: P1
+Next Player: P2
+Mice: B-4, P1-5, P2-3, P3-2, P4-6, P5-0
+
+Current Player: P2
+Next Player: P1
+Mice: B-5, P1-5, P2-1, P3-3, P4-6, P5-0
+
+Current Player: P1
+Next Player: P5
+Mice: B-5, P1-4, P2-1, P3-3, P4-6, P5-1
+
+Current Player: P5
+Next Player: P4
+Mice: B-5, P1-4, P2-1, P3-3, P4-6, P5-1
+
+Current Player: P4
+Next Player: P5
+Mice: B-6, P1-4, P2-1, P3-3, P4-5, P5-1
+
+Current Player: P5
+Next Player: P4
+Mice: B-7, P1-4, P2-1, P3-3, P4-5, P5-0
+
+Current Player: P4
+Next Player: P3
+Mice: B-8, P1-4, P2-1, P3-3, P4-4, P5-0
+
+Current Player: P3
+Next Player: P4
+Mice: B-9, P1-4, P2-1, P3-2, P4-4, P5-0
+
+Current Player: P4
+Next Player: P5
+Mice: B-10, P1-4, P2-1, P3-2, P4-2, P5-1
+
+Current Player: P5
+Next Player: P4
+Mice: B-11, P1-4, P2-1, P3-2, P4-2, P5-0
+
+Current Player: P4
+Next Player: P3
+Mice: B-12, P1-4, P2-1, P3-2, P4-1, P5-0
+
+Current Player: P3
+Next Player: P2
+Mice: B-14, P1-4, P2-1, P3-0, P4-1, P5-0
+
+Current Player: P2
+Next Player: P1
+Mice: B-13, P1-4, P2-2, P3-0, P4-1, P5-0
+
+Current Player: P1
+Next Player: P5
+Mice: B-13, P1-4, P2-2, P3-0, P4-1, P5-0
+
+Current Player: P5
+Next Player: P1
+Mice: B-12, P1-4, P2-2, P3-0, P4-1, P5-1
+
+Current Player: P1
+Next Player: P2
+Mice: B-12, P1-4, P2-2, P3-0, P4-1, P5-1
+
+Current Player: P2
+Next Player: P1
+Mice: B-12, P1-5, P2-1, P3-0, P4-1, P5-1
+
+Current Player: P1
+Next Player: P5
+Mice: B-12, P1-4, P2-1, P3-0, P4-1, P5-2
+
+Current Player: P5
+Next Player: P4
+Mice: B-13, P1-4, P2-1, P3-0, P4-2, P5-0
+
+Current Player: P4
+Next Player: P5
+Mice: B-14, P1-4, P2-1, P3-0, P4-1, P5-0
+
+Current Player: P5
+Next Player: P1
+Mice: B-14, P1-4, P2-1, P3-0, P4-1, P5-0
+
+Current Player: P1
+Next Player: P5
+Mice: B-14, P1-4, P2-1, P3-0, P4-1, P5-0
+
+Current Player: P5
+Next Player: P1
+Mice: B-14, P1-4, P2-1, P3-0, P4-1, P5-0
+
+Current Player: P1
+Next Player: P5
+Mice: B-15, P1-2, P2-2, P3-0, P4-1, P5-0
+
+	***************
+
+	Winner(s): P1	P2	
+
+
+Current Player: P4
+Next Player: P3
+Mice: B-2, P1-3, P2-3, P3-3, P4-1, P5-5, P6-3
+
+Current Player: P3
+Next Player: P4
+Mice: B-2, P1-3, P2-5, P3-1, P4-1, P5-5, P6-3
+
+Current Player: P4
+Next Player: P5
+Mice: B-1, P1-3, P2-5, P3-1, P4-1, P5-6, P6-3
+
+Current Player: P5
+Next Player: P6
+Mice: B-1, P1-3, P2-5, P3-1, P4-1, P5-4, P6-5
+
+Current Player: P6
+Next Player: P5
+Mice: B-1, P1-4, P2-5, P3-1, P4-1, P5-4, P6-4
+
+Current Player: P5
+Next Player: P4
+Mice: B-1, P1-4, P2-5, P3-1, P4-1, P5-4, P6-4
+
+Current Player: P4
+Next Player: P5
+Mice: B-1, P1-4, P2-5, P3-1, P4-0, P5-5, P6-4
+
+Current Player: P5
+Next Player: P4
+Mice: B-0, P1-4, P2-5, P3-1, P4-0, P5-5, P6-5
+
+Current Player: P4
+Next Player: P3
+Mice: B-0, P1-4, P2-5, P3-1, P4-0, P5-5, P6-5
+
+Current Player: P3
+Next Player: P2
+Mice: B-0, P1-4, P2-5, P3-1, P4-0, P5-5, P6-5
+
+Current Player: P2
+Next Player: P1
+Mice: B-1, P1-5, P2-3, P3-1, P4-0, P5-5, P6-5
+
+Current Player: P1
+Next Player: P6
+Mice: B-2, P1-3, P2-3, P3-1, P4-0, P5-5, P6-6
+
+Current Player: P6
+Next Player: P5
+Mice: B-1, P1-3, P2-3, P3-1, P4-0, P5-5, P6-7
+
+Current Player: P5
+Next Player: P6
+Mice: B-1, P1-3, P2-3, P3-1, P4-1, P5-4, P6-7
+
+Current Player: P6
+Next Player: P5
+Mice: B-2, P1-4, P2-3, P3-1, P4-1, P5-4, P6-5
+
+Current Player: P5
+Next Player: P4
+Mice: B-2, P1-4, P2-3, P3-1, P4-2, P5-3, P6-5
+
+Current Player: P4
+Next Player: P3
+Mice: B-3, P1-4, P2-3, P3-1, P4-1, P5-3, P6-5
+
+Current Player: P3
+Next Player: P4
+Mice: B-2, P1-4, P2-3, P3-2, P4-1, P5-3, P6-5
+
+Current Player: P4
+Next Player: P3
+Mice: B-3, P1-4, P2-3, P3-2, P4-0, P5-3, P6-5
+
+Current Player: P3
+Next Player: P4
+Mice: B-2, P1-4, P2-3, P3-3, P4-0, P5-3, P6-5
+
+Current Player: P4
+Next Player: P5
+Mice: B-2, P1-4, P2-3, P3-3, P4-0, P5-3, P6-5
+
+Current Player: P5
+Next Player: P4
+Mice: B-3, P1-4, P2-3, P3-3, P4-0, P5-1, P6-6
+
+Current Player: P4
+Next Player: P5
+Mice: B-3, P1-4, P2-3, P3-3, P4-0, P5-1, P6-6
+
+Current Player: P5
+Next Player: P4
+Mice: B-3, P1-4, P2-3, P3-3, P4-0, P5-1, P6-6
+
+Current Player: P4
+Next Player: P5
+Mice: B-3, P1-4, P2-3, P3-3, P4-0, P5-1, P6-6
+
+Current Player: P5
+Next Player: P4
+Mice: B-3, P1-4, P2-3, P3-3, P4-0, P5-1, P6-6
+
+Current Player: P4
+Next Player: P5
+Mice: B-3, P1-4, P2-3, P3-3, P4-0, P5-1, P6-6
+
+Current Player: P5
+Next Player: P4
+Mice: B-3, P1-4, P2-3, P3-3, P4-0, P5-1, P6-6
+
+Current Player: P4
+Next Player: P5
+Mice: B-3, P1-4, P2-3, P3-3, P4-0, P5-1, P6-6
+
+Current Player: P5
+Next Player: P4
+Mice: B-3, P1-4, P2-3, P3-3, P4-0, P5-1, P6-6
+
+	***************
+
+	Winner(s): P6	

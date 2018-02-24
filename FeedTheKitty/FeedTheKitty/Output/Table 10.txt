@@ -1,0 +1,375 @@
+
+G A	G B	
+Current Player: P3
+Next Player: P2
+Mice: B-3, P1-6, P2-7, P3-4
+G A	G A	
+Current Player: P2
+Next Player: P1
+Mice: B-3, P1-8, P2-5, P3-4
+G Sc	R M	
+Current Player: P1
+Next Player: P2
+Mice: B-2, P1-9, P2-5, P3-4
+G Sc	G B	
+Current Player: P2
+Next Player: P3
+Mice: B-3, P1-9, P2-4, P3-4
+G A	G B	
+Current Player: P3
+Next Player: P1
+Mice: B-4, P1-10, P2-4, P3-2
+G A	G B	
+Current Player: P1
+Next Player: P2
+Mice: B-5, P1-8, P2-5, P3-2
+G Sc	R M	
+Current Player: P2
+Next Player: P1
+Mice: B-4, P1-8, P2-6, P3-2
+G A	R M	
+Current Player: P1
+Next Player: P2
+Mice: B-3, P1-8, P2-6, P3-3
+G Sc	G A	
+Current Player: P2
+Next Player: P3
+Mice: B-3, P1-8, P2-5, P3-4
+G A	G B	
+Current Player: P3
+Next Player: P1
+Mice: B-4, P1-9, P2-5, P3-2
+G A	R M	
+Current Player: P1
+Next Player: P3
+Mice: B-3, P1-9, P2-6, P3-2
+G Sc	G A	
+Current Player: P3
+Next Player: P2
+Mice: B-3, P1-9, P2-7, P3-1
+G A	G B	
+Current Player: P2
+Next Player: P1
+Mice: B-4, P1-10, P2-5, P3-1
+G A	G B	
+Current Player: P1
+Next Player: P3
+Mice: B-5, P1-8, P2-5, P3-2
+G Sc	R M	
+Current Player: P3
+Next Player: P1
+Mice: B-4, P1-8, P2-5, P3-3
+G A	G B	
+Current Player: P1
+Next Player: P2
+Mice: B-5, P1-6, P2-6, P3-3
+G A	G B	
+Current Player: P2
+Next Player: P3
+Mice: B-6, P1-6, P2-4, P3-4
+G A	G B	
+Current Player: P3
+Next Player: P1
+Mice: B-7, P1-7, P2-4, P3-2
+G A	G A	
+Current Player: P1
+Next Player: P2
+Mice: B-7, P1-5, P2-6, P3-2
+G A	G A	
+Current Player: P2
+Next Player: P3
+Mice: B-7, P1-5, P2-4, P3-4
+G A	G B	
+Current Player: P3
+Next Player: P1
+Mice: B-8, P1-6, P2-4, P3-2
+G A	G A	
+Current Player: P1
+Next Player: P2
+Mice: B-8, P1-4, P2-6, P3-2
+G Sc	R M	
+Current Player: P2
+Next Player: P1
+Mice: B-7, P1-4, P2-7, P3-2
+G Sc	R M	
+Current Player: P1
+Next Player: P2
+Mice: B-6, P1-5, P2-7, P3-2
+G Sc	R M	
+Current Player: P2
+Next Player: P1
+Mice: B-5, P1-5, P2-8, P3-2
+G Sc	R M	
+Current Player: P1
+Next Player: P2
+Mice: B-4, P1-6, P2-8, P3-2
+G Sc	R M	
+Current Player: P2
+Next Player: P1
+Mice: B-3, P1-6, P2-9, P3-2
+G Sc	R M	
+Current Player: P1
+Next Player: P2
+Mice: B-2, P1-7, P2-9, P3-2
+G Sc	R M	
+Current Player: P2
+Next Player: P1
+Mice: B-1, P1-7, P2-10, P3-2
+G Sc	R M	
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-8, P2-10, P3-2
+
+	***************
+
+	Winner(s): P2	
+
+R A	G Sc	
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-11, P2-9
+R Sc	G Sc	
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-11, P2-9
+R Sc	G A	
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-12, P2-8
+R Sc	G A	
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-11, P2-9
+R Sc	G A	
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-12, P2-8
+R Sc	G A	
+Current Player: P1
+Next Player: P2
+Mice: B-0, P1-11, P2-9
+R A	G A	
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-13, P2-7
+R Sc	R B	
+Current Player: P1
+Next Player: P2
+Mice: B-1, P1-12, P2-7
+R Sc	G A	
+Current Player: P2
+Next Player: P1
+Mice: B-1, P1-13, P2-6
+R Sc	G A	
+Current Player: P1
+Next Player: P2
+Mice: B-1, P1-12, P2-7
+R Sc	R B	
+Current Player: P2
+Next Player: P1
+Mice: B-2, P1-12, P2-6
+R Sc	R B	
+Current Player: P1
+Next Player: P2
+Mice: B-3, P1-11, P2-6
+R Sc	G Sc	
+Current Player: P2
+Next Player: P1
+Mice: B-3, P1-11, P2-6
+R Sc	R B	
+Current Player: P1
+Next Player: P2
+Mice: B-4, P1-10, P2-6
+R Sc	G A	
+Current Player: P2
+Next Player: P1
+Mice: B-4, P1-11, P2-5
+R Sc	G A	
+Current Player: P1
+Next Player: P2
+Mice: B-4, P1-10, P2-6
+R Sc	G A	
+Current Player: P2
+Next Player: P1
+Mice: B-4, P1-11, P2-5
+R Sc	G A	
+Current Player: P1
+Next Player: P2
+Mice: B-4, P1-10, P2-6
+R A	R B	
+Current Player: P2
+Next Player: P1
+Mice: B-5, P1-11, P2-4
+R Sc	G A	
+Current Player: P1
+Next Player: P2
+Mice: B-5, P1-10, P2-5
+R Sc	R B	
+Current Player: P2
+Next Player: P1
+Mice: B-6, P1-10, P2-4
+R Sc	G A	
+Current Player: P1
+Next Player: P2
+Mice: B-6, P1-9, P2-5
+R Sc	R B	
+Current Player: P2
+Next Player: P1
+Mice: B-7, P1-9, P2-4
+R Sc	G Sc	
+Current Player: P1
+Next Player: P2
+Mice: B-7, P1-9, P2-4
+R Sc	G Sc	
+Current Player: P2
+Next Player: P1
+Mice: B-7, P1-9, P2-4
+R Sc	R B	
+Current Player: P1
+Next Player: P2
+Mice: B-8, P1-8, P2-4
+R Sc	G Sc	
+Current Player: P2
+Next Player: P1
+Mice: B-8, P1-8, P2-4
+R Sc	R B	
+Current Player: P1
+Next Player: P2
+Mice: B-9, P1-7, P2-4
+R A	G A	
+Current Player: P2
+Next Player: P1
+Mice: B-9, P1-9, P2-2
+R Sc	R B	
+Current Player: P1
+Next Player: P2
+Mice: B-10, P1-8, P2-2
+
+	***************
+
+	Winner(s): P1	
+
+G Sc	R B	
+Current Player: P2
+Next Player: P1
+Mice: B-3, P1-6, P2-5, P3-6
+G B	R Sc	
+Current Player: P1
+Next Player: P2
+Mice: B-4, P1-5, P2-5, P3-6
+G B	R Sc	
+Current Player: P2
+Next Player: P1
+Mice: B-5, P1-5, P2-4, P3-6
+R A	R Sc	
+Current Player: P1
+Next Player: P3
+Mice: B-5, P1-4, P2-4, P3-7
+G Sc	R Sc	
+Current Player: P3
+Next Player: P2
+Mice: B-5, P1-4, P2-4, P3-7
+R A	R Sc	
+Current Player: P2
+Next Player: P3
+Mice: B-5, P1-4, P2-3, P3-8
+G B	R Sc	
+Current Player: P3
+Next Player: P2
+Mice: B-6, P1-4, P2-3, P3-7
+R A	R M	
+Current Player: P2
+Next Player: P1
+Mice: B-5, P1-5, P2-3, P3-7
+R A	R Sc	
+Current Player: P1
+Next Player: P3
+Mice: B-5, P1-4, P2-3, P3-8
+R A	R Sc	
+Current Player: P3
+Next Player: P2
+Mice: B-5, P1-4, P2-4, P3-7
+R Sc	R M	
+Current Player: P2
+Next Player: P1
+Mice: B-4, P1-4, P2-5, P3-7
+R A	R M	
+Current Player: P1
+Next Player: P3
+Mice: B-3, P1-4, P2-5, P3-8
+R A	R Sc	
+Current Player: P3
+Next Player: P2
+Mice: B-3, P1-4, P2-6, P3-7
+R Sc	R Sc	
+Current Player: P2
+Next Player: P1
+Mice: B-3, P1-4, P2-6, P3-7
+R A	R Sc	
+Current Player: P1
+Next Player: P3
+Mice: B-3, P1-3, P2-6, P3-8
+R Sc	R M	
+Current Player: P3
+Next Player: P2
+Mice: B-2, P1-3, P2-6, P3-9
+R Sc	R M	
+Current Player: P2
+Next Player: P1
+Mice: B-1, P1-3, P2-7, P3-9
+R Sc	R Sc	
+Current Player: P1
+Next Player: P3
+Mice: B-1, P1-3, P2-7, P3-9
+R Sc	R Sc	
+Current Player: P3
+Next Player: P2
+Mice: B-1, P1-3, P2-7, P3-9
+R A	R M	
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-4, P2-7, P3-9
+R Sc	R M	
+Current Player: P1
+Next Player: P3
+Mice: B-0, P1-4, P2-7, P3-9
+R A	R Sc	
+Current Player: P3
+Next Player: P2
+Mice: B-0, P1-4, P2-8, P3-8
+R Sc	R Sc	
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-4, P2-8, P3-8
+R Sc	R Sc	
+Current Player: P1
+Next Player: P3
+Mice: B-0, P1-4, P2-8, P3-8
+R Sc	R Sc	
+Current Player: P3
+Next Player: P2
+Mice: B-0, P1-4, P2-8, P3-8
+R A	R M	
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-5, P2-7, P3-8
+R A	R Sc	
+Current Player: P1
+Next Player: P3
+Mice: B-0, P1-4, P2-7, P3-9
+R A	R M	
+Current Player: P3
+Next Player: P2
+Mice: B-0, P1-4, P2-8, P3-8
+R A	R M	
+Current Player: P2
+Next Player: P1
+Mice: B-0, P1-5, P2-7, P3-8
+R Sc	R Sc	
+Current Player: P1
+Next Player: P3
+Mice: B-0, P1-5, P2-7, P3-8
+
+	***************
+
+	Winner(s): P3	
