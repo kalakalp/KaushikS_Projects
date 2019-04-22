@@ -1,0 +1,132 @@
+import java.util.*; 
+public class voteList{
+
+static int SIZE = 9;
+static int POS = 4;
+
+public static HashMap<Integer, Node> allocation = new HashMap<Integer, Node>();
+public static HashMap<Integer, Node> tie = new HashMap<Integer, Node>();
+    
+    public static void main(String [] args){
+        
+        Integer[] arr = {15,8,8,5,5,5,5,2,2};
+        plotTree(arr);
+    }
+
+    
+    static void plotTree(Integer[] arr){
+        
+        Integer level = 0;
+        Integer positions = POS;
+        
+        Node root = new Node(999,level,0);
+        Node parent = root;
+        Node child;
+
+        for(int i=0;i<SIZE;i++){
+            child = new Node(arr[i],++level,i+1);
+            parent.addChild(child);
+            
+            while(i<SIZE-1){
+                if(arr[i]==arr[i+1]){
+                    child = new Node(arr[++i],level,i+1);
+                    parent.addChild(child);
+                }
+                else{
+                    break;
+                }
+            }
+            parent = child;
+        }
+        
+       //root.printAll();
+       if(root.checkTie(positions))
+            System.out.println("Tiebreak needed");
+    }
+}
+
+class Node
+{
+    
+    private List<Node> children = null;
+    private Integer value;
+    private Integer level;
+    private Integer order;
+
+
+    
+    public Node(Integer value,Integer level,Integer order)
+    {
+        this.children = new ArrayList<>();
+        this.value = value;
+        this.level = level;
+        this.order = order;
+    }
+
+    public void addChild(Node child)
+    {
+        children.add(child);
+    }
+    
+    public void populateTieList(List<Node> temp){
+
+     
+        int tieLevel = temp.get(0).level;
+        
+        Node t;
+        Iterator it = voteList.allocation.entrySet().iterator();
+        
+        while (it.hasNext()) {
+            Map.Entry pair = (Map.Entry)it.next();
+            if(((Node)pair.getValue()).level == tieLevel)
+                it.remove(); 
+        }
+        
+        int tieKey = 0;//voteList.allocation.size()+1;
+        for(int iter=0;iter<temp.size();iter++){
+            voteList.tie.put(tieKey++,temp.get(iter));    
+        }
+        
+        
+        System.out.println("Tiebreak candidtates : "+ voteList.tie);
+        
+    }
+    public boolean checkTie(Integer positions){
+     
+        List<Node> temp = children;
+        Node it = null;
+        int iter = 0;
+        int pos = 1;
+        
+        while(temp != null){
+            
+            for(iter = 0;iter < temp.size(); iter++ ){
+                
+                voteList.allocation.put(pos++,temp.get(iter));
+                if(temp.get(iter).order >= positions){
+                    break;
+                }
+            }
+            
+            if(temp.size()-1 >= iter && temp.get(temp.size()-1).order != positions){
+                populateTieList(temp);
+                break;
+            }
+           if(pos-1 == positions){
+                temp = null;
+            }
+            else{
+                temp = temp.get(iter-1).children;
+            }
+        } //End while
+        
+
+        System.out.println("Allocation candidtates : "+ voteList.allocation);
+        if(voteList.tie.size() == 0)
+            return false;
+
+    return true;            
+    }
+    
+
+}
